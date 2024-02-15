@@ -1,0 +1,13 @@
+ML ID;Feature 1;FeatureValueType 1;Feature 2;FeatureValueType 2;Datafreqscore;temporaloverlapscore
+1;Temperature;String;Temperature;Float;6;0.5
+2;Temperature;Float;Temperature;Float;6;0.5
+3;CO2;Float;Temperature;Float;5;0.67
+4;Energy;Float;Temperature;Float;8;0.42
+5;Occupants;Integer;Temperature;Float;7;0.5
+6;Temp;Float;Temperature;Float;6;0.75
+7;CO2;Float;Temperature;Float;7;0.33
+8;Temp;String;Temperature;Float;10;0.58
+9;Energy;Float;Temperature;Float;9;0.5
+10;Energy;String;Temperature;Float;9;0.67
+11;Temperature;Float;Temperature;Float;5;0.33
+12;CO2;Float;Temperature;Float;12;0.58
